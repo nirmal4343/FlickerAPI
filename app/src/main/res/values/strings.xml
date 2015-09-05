@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fliker Api</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="network_error">No Network Connection!! </string>
+    <string name="gps_error">Failed to get location coordinate!! \nProceeding with default Location</string>
+    <string name="parse_error">Couldn\'t pull photo at this time, please try later. </string>
+</resources>
