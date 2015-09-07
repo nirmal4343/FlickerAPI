@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * <h1> Photos  </h1>
- * Class to capture Photo info from API response
+ * Class to capture Photos info from API response
  *
  * @author  Nirmal Thakur
  * @version 1.0

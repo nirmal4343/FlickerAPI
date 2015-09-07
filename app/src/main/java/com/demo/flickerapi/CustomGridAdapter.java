@@ -106,7 +106,7 @@ public class CustomGridAdapter extends BaseAdapter {
 
 
     /**
-     * ViewHolder for the GridView row, for faster rendering of image in GridView
+     * ViewHolder for the GridView cell, for faster rendering of image in GridView
      *
      * @author Nirmal Thakur
      *

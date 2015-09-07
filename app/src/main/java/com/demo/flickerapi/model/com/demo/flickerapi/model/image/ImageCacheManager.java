@@ -1,9 +1,5 @@
 package com.demo.flickerapi.model.com.demo.flickerapi.model.image;
 
-/**
- * Created by Nirmal on 9/4/2015.
- */
-
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.Bitmap.CompressFormat;
@@ -18,6 +14,10 @@ import com.demo.flickerapi.model.RequestManager;
  * Implementation of volley's ImageCache interface. This manager tracks the application image loader and cache.
  *
  * Volley recommends an L1 non-blocking cache which is the default MEMORY CacheType.
+ *
+ * @author  Nirmal Thakur
+ * @version 1.0
+ * @Date 9/4/2015
  *
  */
 public class ImageCacheManager{

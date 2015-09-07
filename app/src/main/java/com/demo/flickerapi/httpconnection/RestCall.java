@@ -45,7 +45,7 @@ public class RestCall implements GetRESTData{
 
 
 	/**
-	 * Method interact with Rest Client to pull weather information in the form of JSON
+	 * Method interact with Rest Client to pull Photo info from Flicker server.
 	 *
 	 * @param strUrl server url
 	 * @return String JSON string response

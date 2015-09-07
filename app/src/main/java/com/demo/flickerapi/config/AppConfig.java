@@ -18,8 +18,6 @@ import com.demo.flickerapi.model.Photo;
 
 public class AppConfig {
 
-    //https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=ce34ea52b317fd11abf51d95f418fd7c&tags=food&format=json&latitude=33.766827&longitude=-84.294109
-
 
     public static final String SERVER_URL = "https://api.flickr.com/services/rest/";
 
@@ -51,7 +49,10 @@ public class AppConfig {
 
 
     /**
-     * Form server url for a selected zip code from the list, return server url for JSON response type
+     * Form server url for to pull photos around current location, return server url for JSON response type.
+     *
+     * A Sample URL,     //https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=ce34ea52b317fd11abf51d95f418fd7c&tags=food&format=json&latitude=33.766827&longitude=-84.294109
+     *
      * @param latitude , longitude
      * @return String
      */
@@ -62,7 +63,7 @@ public class AppConfig {
     }
 
     /**
-     * Form server url for a selected zip code from the list, return server url for XML response type
+     * Form server url to return response as a XML response type
      * @param latitude , longitude
      * @return String
      */
@@ -94,7 +95,7 @@ public class AppConfig {
     }
 
     /**
-     *
+     * Generate photo download URL for selected photo object
      * @param photo
      * @return
      *   Well from URL to download image using volley

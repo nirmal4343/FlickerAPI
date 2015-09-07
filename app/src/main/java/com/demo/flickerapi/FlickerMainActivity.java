@@ -45,7 +45,7 @@ public class FlickerMainActivity extends AppCompatActivity implements FlickerMai
     }
 
     /**
-     * Zoom/Scale the selected image from the GridView
+     * Zoom/Scale the selected image from the GridView cell
      *
      * @param thumbView
      * @param photo

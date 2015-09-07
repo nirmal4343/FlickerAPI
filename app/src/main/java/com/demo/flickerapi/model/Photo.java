@@ -1,8 +1,15 @@
 package com.demo.flickerapi.model;
 
+
 /**
- * Created by Nirmal on 9/3/2015.
+ * <h1> Photo  </h1>
+ * Class to capture Photo info from API response
+ *
+ * @author  Nirmal Thakur
+ * @version 1.0
+ * @Date 9/3/2015
  */
+
 public class Photo {
 
     private String id;
