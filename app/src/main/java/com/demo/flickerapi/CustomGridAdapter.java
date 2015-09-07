@@ -11,7 +11,7 @@ import android.widget.TextView;
 import com.android.volley.toolbox.NetworkImageView;
 import com.demo.flickerapi.config.AppConfig;
 import com.demo.flickerapi.model.Photo;
-import com.demo.flickerapi.model.com.demo.flickerapi.model.image.ImageCacheManager;
+import com.demo.flickerapi.model.image.ImageCacheManager;
 
 import java.util.List;
 

@@ -3,7 +3,7 @@ package com.demo.flickerapi;
 import android.app.Application;
 import android.graphics.Bitmap.CompressFormat;
 import com.demo.flickerapi.model.RequestManager;
-import com.demo.flickerapi.model.com.demo.flickerapi.model.image.ImageCacheManager;
+import com.demo.flickerapi.model.image.ImageCacheManager;
 
 /**
  *

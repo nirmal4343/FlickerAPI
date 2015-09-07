@@ -12,7 +12,7 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.GridView;
 import android.widget.Toast;
-import com.demo.flickerapi.com.demo.flickerapi.gps.GPSLocation;
+import com.demo.flickerapi.gps.GPSLocation;
 import com.demo.flickerapi.httpconnection.RestCall;
 import com.demo.flickerapi.model.Photo;
 import com.demo.flickerapi.model.Status;
