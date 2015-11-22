@@ -22,7 +22,6 @@ import java.util.Iterator;
 import java.util.List;
 
 /**
-
  * <h1> Fragment   </h1>
  * This is the fragment display in MainActivity to display the downloaded image from flicker.
  * Also, has the implementation of network call using AsyncTask to pull the JSON response from server
