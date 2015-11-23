@@ -5,4 +5,10 @@
     <string name="network_error">No Network Connection!! </string>
     <string name="gps_error">Failed to get location coordinate!! \nProceeding with default Location</string>
     <string name="parse_error">Couldn\'t pull photo at this time, please try later. </string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <color name="white">#FFFFFF </color>
+
+
+
 </resources>
